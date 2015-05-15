@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=uScreenwerk
+Name=Screenwerk
 Exec=ubuntu-html5-app-launcher $@ --www=www --inspector
 Icon=Screenwerk-2015-uPhone.png
 Terminal=false

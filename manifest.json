@@ -1,17 +1,15 @@
 {
     "name": "screenwerk-2015-uphone.michelek",
-    "description": "description of Screenwerk-2015-uPhone",
+    "description": "Screenwerk for Ubuntu Phone",
     "architecture": "all",
-    "title": "Screenwerk-2015-uPhone",
+    "title": "Screenwerk",
     "hooks": {
         "uScreenwerk": {
             "apparmor": "uScreenwerk.apparmor",
-            "desktop":  "uScreenwerk.desktop"
+            "desktop": "uScreenwerk.desktop"
         }
     },
     "version": "0.1",
     "maintainer": "Mihkel Putrinš <mihkel.putrinsh@gmail.com>",
-    "framework" : "ubuntu-sdk-15.04"
+    "framework": "ubuntu-sdk-15.04"
 }
-
-
