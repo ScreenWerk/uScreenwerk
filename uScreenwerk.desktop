@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=uScreenwerk
+Exec=ubuntu-html5-app-launcher $@ --www=www --inspector
+Icon=Screenwerk-2015-uPhone.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
